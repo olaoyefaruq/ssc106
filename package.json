@@ -1,0 +1,16 @@
+{
+  "name": "ssc106",
+  "version": "1.0.0",
+  "description": "SSC 106 — Mathematics for Social Scientists II | Study Bank",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
